@@ -10,10 +10,9 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 
-// Import gambar lokal
-import slide1 from '../assets/images/foto1.JPG'
-import slide2 from '../assets/images/foto2.JPG'
-import slide3 from '../assets/images/foto3.WEBP'
+import slide1 from '../assets/images/foto1.jpg'
+import slide2 from '../assets/images/foto2.jpg'
+import slide3 from '../assets/images/foto3.webp'
 
 const images = [slide1, slide2, slide3]
 const currentIndex = ref(0)

@@ -23,8 +23,6 @@ import Carousel from '../components/Carousel.vue'
 import ProductCard from '../components/ProductCard.vue'
 import Footer from '../components/Footer.vue'
 
-// 🔥 Ganti nama file gambar kamu di folder src/assets/images
-// Menjadi huruf kecil semua: foto1.jpg, foto2.jpg, foto3.webp
 import slide1 from '../assets/images/foto1.jpg'
 import slide2 from '../assets/images/foto2.jpg'
 import slide3 from '../assets/images/foto3.webp'
